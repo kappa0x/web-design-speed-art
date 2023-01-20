@@ -44,3 +44,52 @@ html, body {
     margin-right: 2em;
     margin-top: 12px;
 }
+
+.banner {
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    background-image: url("./img/background_red.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+    text-align: center; 
+}
+
+.banner h1 {
+    padding: 2.5em 0 0 0; 
+    margin: 0; 
+    clear: both; 
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.tagline {
+    font-weight: 100; 
+    margin: 0.5em 0 1.5em 0; 
+    padding: 0; 
+}
+
+.banner a {
+    background-color: white;
+}
+
+.banner_btn {
+    color: #DD4C4C; 
+    text-decoration: none;
+    margin: 0; 
+    padding: 0; 
+}
+
+.banner a p {
+    background-color: white; 
+    width: 180px; 
+    padding: 0.75em 0; 
+    margin-left: auto; 
+    margin-right: auto;
+    border-radius: 100px; 
+    
+}
